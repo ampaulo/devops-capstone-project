@@ -1,6 +1,6 @@
 ---
 name: User Story
-description: Information to be provided in the user story
+about: Information to be provided in the user story
 title: ''
 labels: ''
 assignees: ampaulo
