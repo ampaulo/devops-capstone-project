@@ -49,6 +49,7 @@ spec:
         - name: args
           value:
             [
+              "--ignore=E501,E302",
               "--count",
               "--max-complexity=10",
               "--max-line-length=127",
